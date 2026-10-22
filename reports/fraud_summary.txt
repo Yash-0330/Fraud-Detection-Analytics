@@ -1,0 +1,10 @@
+FRAUD ANALYTICS REPORT
+=====================
+Total transactions: 284,807
+Genuine transactions: 284,315
+Fraudulent transactions: 492
+Fraud rate: 0.1727%
+Fraud-labeled transaction amount total: 60,127.97
+Genuine transaction amount total: 25,102,462.04
+Average fraud-labeled amount: 122.21
+Average genuine amount: 88.29
